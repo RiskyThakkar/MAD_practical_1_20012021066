@@ -6,7 +6,7 @@ import javax.print.attribute.IntegerSyntax
 fun main()
 {
     println("Enter any value: ")
-    var s1:Int = readLine()!!.toInt()
+    val s1:Int = readLine()!!.toInt()
 
     if(s1%2==0)
     {
