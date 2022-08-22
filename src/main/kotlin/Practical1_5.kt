@@ -1,8 +1,7 @@
 fun main()
 {
     print("Enter month number : ")
-    var mon:Int = readLine()!!.toInt()
-    when (mon) {
+    when (readLine()!!.toInt()) {
         1 -> print("MONTH = January")
         2 -> print("MONTH = February")
         3 -> print("MONTH = March")
