@@ -8,7 +8,6 @@ fun main()
     val a2=a1.toDouble()
     println("Double value(from integer) = $a2")
 
-
     val b1 : String = "45568"
     val b2=b1.toInt()
     println("Integer value(from String) = $b2")
