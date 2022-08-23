@@ -5,6 +5,8 @@ Float, Long, Short, Byte, Char, Boolean, String)*/
 
 fun main()
 {
+    println("20012021066_SMIT THAKKAR\n")
+
     val a : Int = 678
     val b : Double = 256.321
     val c : Float = 45.12f
@@ -13,7 +15,7 @@ fun main()
     val f : Byte = 9
     val g : Char = 'S'
     val h : Boolean = true
-    val i : String = "smit"
+    val i : String = "Smit"
 
     println("Integer Value = $a")
     println("Double Value = $b")
