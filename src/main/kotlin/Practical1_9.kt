@@ -1,5 +1,7 @@
 fun main()
 {
+    println("20012021066_SMIT THAKKAR\n")
+
     print("Enter Elements : ")
     val n:Int = readLine()!!.toInt()
     val num = ArrayList<Int>()
