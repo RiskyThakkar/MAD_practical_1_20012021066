@@ -1,5 +1,7 @@
 fun main()
 {
+    println("20012021066_SMIT THAKKAR\n")
+
     val car1 = Car("BMW, 2018", "Aman", 105, 100000.0, 98950.0)
     car1.getCarFullDetails()
 
@@ -18,39 +20,32 @@ fun main()
         i.getCarFullDetails()
     }
 }
-
 class Car(private val model: String, private val owner: String, private val miles: Int, private val original: Double, private val current: Double)
 {
     init
     {
         println("Object of class is Created and Init is Called.")
     }
-
     private fun info(): String
     {
         return model
     }
-
     private fun carowner(): String
     {
         return owner
     }
-
     private fun milesDrive(): Int
     {
         return miles
     }
-
     private fun orgprice(): Double
     {
         return original
     }
-
     private fun currprice(): Double
     {
         return current
     }
-
     fun getCarFullDetails()
     {
         println("===================")
