@@ -1,5 +1,7 @@
 fun main()
 {
+    println("20012021066_SMIT THAKKAR\n")
+
     print("ENTER NUMBER : ")
     val n : Int = readLine()!!.toInt()
     println("Factorial of $n : ${fact(n)}")
