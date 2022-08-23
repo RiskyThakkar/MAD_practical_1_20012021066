@@ -5,6 +5,8 @@ import javax.print.attribute.IntegerSyntax
 
 fun main()
 {
+    println("20012021066_SMIT THAKKAR\n")
+
     println("Enter any value: ")
     val s1:Int = readLine()!!.toInt()
 
