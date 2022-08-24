@@ -96,23 +96,54 @@ Solution :
 
 Output :
 
+![image](https://user-images.githubusercontent.com/110805993/186491273-11cb510a-7064-42ff-b7ad-5be496c65e21.png)
+
+
 Question 9 : Find the max number from ArrayList.
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186491392-8aeb34f5-a891-4b42-9cd1-6d2dd4834e31.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186491503-74482a22-69b1-43fa-b58f-4b7ae61d48db.png)
 
 Question 10 : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186491721-ca6241f5-1b45-4f9a-9237-d4d222e7520e.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186491779-a9cb6ed2-5eb0-4c4c-a59a-28ae76857ca0.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186491823-a0db4563-c7bf-4157-a478-ef15b89b60e1.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186491944-0afea36a-e250-42c2-a91a-20ba9d0dfe19.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186491968-aeb22f27-37c6-474f-8094-72e292b68d8c.png)
 
 Question 11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186492665-a9f5e27e-54b9-4d37-a623-abd48b613048.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186492767-ad6dcdd6-59f7-4dd8-8487-0eaa3e095a7d.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186492850-29999481-c1dc-4eef-a370-dfdbb2b9542e.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186492878-96cef423-03ec-4177-b402-fb35c31ac9b5.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186492964-c0f1bef4-6edc-4a32-99c5-e0781d9745e4.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186493005-149f8da8-3503-4020-bc73-897f4236cffa.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186493024-b94f7b4a-337f-4541-a7f0-6b0a40eecaca.png)
 
 
 EXERCISES: KOTLIN PROGRAMS
@@ -121,7 +152,11 @@ Exercise 1 : Swap Value of two variables without using third variable and with u
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186493117-21155a75-4ead-490b-aa44-6d44dba1d048.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186493182-daecb027-717f-4880-be0b-0e525d2fba0c.png)
 
 Exercise 2:	Create two class named as Product and Laptop. Inherit with this information: Product class should be parent and child class should be Laptop class. 
 Add Product Name, Quantity, Amount per Quantity in Product class. In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration. 
@@ -132,7 +167,17 @@ Create List of 5 laptops in ArrayList and display all objects information.
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186493304-2165de79-5cbb-4439-865a-36de2c0bcff8.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186493344-b7a53e23-2f42-4694-bc4e-fcf6c29079a8.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186493393-1d1905bc-142e-4c5c-abd4-e932a7cbda2a.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186493424-6d178f17-c1ea-4a1e-a286-e5a515bd91eb.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186493448-24fecb30-334f-4925-ba7b-e80659a613b5.png)
 
 Exercise 3:	Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
 Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
@@ -141,7 +186,17 @@ Create List of 5 students in ArrayList and display all objects information.
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186493522-2b68032f-b485-4e49-a9a7-8655969b0518.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186493602-054f795d-d779-4fb6-a09e-d1b08bec63f2.png)
+
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186493673-c26f94f2-94a8-4a1f-9097-0a92b5eb10e4.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186493714-23a50f47-e731-4e96-88d7-44d823c18b87.png)
+
 
 
 
