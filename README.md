@@ -12,12 +12,19 @@ Question 1 : Store & Display values in different variable of different type (Int
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186371224-5e756e4c-58bd-4940-a0c3-c465a07d7746.png)
+
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186371747-2051a725-bcfb-488f-b538-c2a45efa4d23.png)
 
 
 Question 2 : Type conversion - Integer to Double, String to Integer, String to Double
 
 Solution :
+
+
 
 Output :
 
