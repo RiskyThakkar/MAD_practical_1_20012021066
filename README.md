@@ -58,8 +58,11 @@ Solution :
 
 ![image](https://user-images.githubusercontent.com/110805993/186488581-53682f30-3cbf-4e22-96dc-c5a4f9ea386e.png)
 
-
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186488925-4cc21602-ad61-417d-8cda-0e2ba72ebd53.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186488984-113080b1-f535-49fc-8028-5838e8267c53.png)
 
 Question 6 : By using a user defined function, perform all arithmetic operations
 
