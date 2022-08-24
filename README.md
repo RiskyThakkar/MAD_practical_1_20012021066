@@ -87,16 +87,12 @@ Output :
 Question 8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString() and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
 Solution :
-![image](https://user-images.githubusercontent.com/110805993/186489970-c4b1fcd6-3c7e-438b-97d2-43f9f56796e7.png)
 
 ![image](https://user-images.githubusercontent.com/110805993/186489847-25068e30-14eb-4f47-8fc8-46029c49ca00.png)
 
 ![image](https://user-images.githubusercontent.com/110805993/186489900-b58748be-9ccc-43f9-82c8-f70763388d63.png)
 
-![Uploading image.png…]()
-
-
-
+![image](https://user-images.githubusercontent.com/110805993/186489970-c4b1fcd6-3c7e-438b-97d2-43f9f56796e7.png)
 
 Output :
 
