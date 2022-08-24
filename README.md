@@ -8,6 +8,7 @@ Screenshot of Practical_1
 
 
 Questions
+
 Question 1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 
 Solution :
@@ -24,25 +25,39 @@ Question 2 : Type conversion - Integer to Double, String to Integer, String to D
 
 Solution :
 
-
+![image](https://user-images.githubusercontent.com/110805993/186484046-94ed68c8-d441-47d3-a0a1-0e2ba994cb87.png)
 
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186484186-48ab9ab2-7c3f-4cea-bf73-ebe4cfa96190.png)
+
 
 Question 3 : Scan student’s information and display all the data.
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186488041-737aa9ac-6ba5-499f-a5a0-25b6fbe1b87f.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186488232-3c0f8082-804d-4a1f-868a-b731206de313.png)
 
 Question 4 : Find the number is odd or even
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186488307-6696d77f-d13b-406d-8ba8-dd55f555675e.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186488407-d2b18047-9444-49cd-b51d-42124a987eae.png)
 
 Question 5 : Display month name when user enter a month number using "when Expressions"
 
 Solution :
+
+![image](https://user-images.githubusercontent.com/110805993/186488581-53682f30-3cbf-4e22-96dc-c5a4f9ea386e.png)
+
 
 Output :
 
