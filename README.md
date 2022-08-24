@@ -68,17 +68,35 @@ Question 6 : By using a user defined function, perform all arithmetic operations
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186489409-3809fdc0-f71b-45bd-a2c1-80e4608f5bd5.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186489492-0a86b0ca-895a-4183-a644-0ef8ad8d8a30.png)
 
 Question 7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
 
 Solution :
 
+![image](https://user-images.githubusercontent.com/110805993/186489568-5eadf095-4e34-41d6-8b0b-4e482f251e88.png)
+
 Output :
+
+![image](https://user-images.githubusercontent.com/110805993/186489725-a9ef7250-caaa-4ba9-b45d-da53c8abd28d.png)
 
 Question 8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString() and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
 Solution :
+![image](https://user-images.githubusercontent.com/110805993/186489970-c4b1fcd6-3c7e-438b-97d2-43f9f56796e7.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186489847-25068e30-14eb-4f47-8fc8-46029c49ca00.png)
+
+![image](https://user-images.githubusercontent.com/110805993/186489900-b58748be-9ccc-43f9-82c8-f70763388d63.png)
+
+![Uploading image.png…]()
+
+
+
 
 Output :
 
